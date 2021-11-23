@@ -3,3 +3,7 @@
 
 
 ## MVC 패턴
+
+
+## 시연 동영상
+<a href="http://kwcommons.kw.ac.kr/em/619c50cd6323c" _blank=Ture>시연 동영상</a>
